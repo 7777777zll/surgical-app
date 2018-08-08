@@ -1,0 +1,7 @@
+<templete>
+	<div class="clientDevice">
+	</div>
+</templete>
+<script>
+  export default {}
+</script>
